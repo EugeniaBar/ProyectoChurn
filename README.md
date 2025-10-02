@@ -3,7 +3,7 @@
 🔗 Acceso al Dashboard (Streamlit App)
 
 ¡Haz clic aquí para ver la aplicación desplegada!
-(Reemplaza el enlace de ejemplo con la URL que obtengas de Streamlit Cloud)
+([ Streamlit Cloud](https://proyectochurn-nijfqjxvlrgqwsnbplqghh.streamlit.app/))
 
 📸 Vista Previa del Dashboard
 <img width="1142" height="508" alt="Captura de pantalla_2025-10-02_16-44-49" src="https://github.com/user-attachments/assets/92bab0de-6aa8-410f-b766-45aae69dbec6" />
